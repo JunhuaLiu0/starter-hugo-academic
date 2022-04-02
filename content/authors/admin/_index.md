@@ -1,32 +1,32 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Junhua Liu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Year-2 Student at CUHK(SZ)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: The Chinese University of Hongkong,shenzhen
+  url: https://www.cuhk.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include 3D vision, virtual reality, multimedia system and multimoding.
 
 # Interests to show in About widget
 interests:
-- 3d vision and Virtual Reality
-- Multimedia System and Application
+- 3D Vision and Virtual Reality
+- Multimedia System 
 - Multimoding
 
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Data Science and Big data technology
-    institution: The Chinese University of Hongkong,shenzhen
+  - course: BSc in Data Science
+    institution: The Chinese University of Hongkong, shenzhen
     year: 2020
 
 # Social/Academic Networking
