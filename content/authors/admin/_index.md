@@ -10,7 +10,7 @@ role: Year-2 Student at CUHK(SZ)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The Chinese University of Hongkong,shenzhen
+- name: The Chinese University of Hongkong, shenzhen
   url: https://www.cuhk.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -64,8 +64,14 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a second-year data science student from the Chinese University of Hong Kong. I have committed myself to computer science research and innovation. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interest originated from multimedia applications, like 3D vision, virtual reality, multimedia system and multimoding.
+
+He is currently a research assistant in INML supervised by [Prof.Fangxin Wang](https://scholar.google.com/citations?user=DrcEuSkAAAAJ&hl=zh-CN) focused on multimedia system and VR. Besides, He is also a research assistant in Harvard supervised by [Prof. Huazhe Xu](https://scholar.google.com/citations?user=VwYoZ6gAAAAJ&hl=zh-CN), and work with [Prof. Jiashun Wang](https://scholar.google.com/citations?user=VwYoZ6gAAAAJ&hl=zh-CN).
+
+I will apply for Ph.D. degree at the end of 2023.
+
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
