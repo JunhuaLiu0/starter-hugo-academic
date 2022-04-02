@@ -20,7 +20,7 @@ bio: My research interests include 3D vision, virtual reality, multimedia system
 interests:
 - 3D Vision and Virtual Reality
 - Multimedia System 
-- Multimoding
+- Multi-modal
 
 # Education to show in About widget
 education:
@@ -66,9 +66,9 @@ highlight_name: true
 
 I am currently a second-year data science student from the Chinese University of Hong Kong. I have committed myself to computer science research and innovation. 
 
-His research interest originated from multimedia applications, like 3D vision, virtual reality, multimedia system and multimoding.
+His research interest originated from multimedia applications, like 3D vision, virtual reality, multimedia system and multi-modal.
 
-He is currently a research assistant in INML supervised by [Prof.Fangxin Wang](https://scholar.google.com/citations?user=DrcEuSkAAAAJ&hl=zh-CN) focused on multimedia system and VR. Besides, He is also a research assistant in Harvard supervised by [Prof. Huazhe Xu](https://scholar.google.com/citations?user=VwYoZ6gAAAAJ&hl=zh-CN), and work with [Prof. Jiashun Wang](https://scholar.google.com/citations?user=VwYoZ6gAAAAJ&hl=zh-CN).
+He is currently a research assistant in INML supervised by [Prof.Fangxin Wang](https://scholar.google.com/citations?user=DrcEuSkAAAAJ&hl=zh-CN) focused on multimedia system and VR. Besides, He is also a research assistant in Harvard supervised by [Prof. Huazhe Xu](https://scholar.google.com/citations?user=VwYoZ6gAAAAJ&hl=zh-CN), and work with [Prof. Jiashun Wang](https://scholar.google.com/citations?user=VwYoZ6gAAAAJ&hl=zh-CN), focused on 3D motion generation and 3D reconstruction.
 
 I will apply for Ph.D. degree at the end of 2023.
 
