@@ -38,11 +38,13 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-He is currently a second-year data science student from the Chinese University of Hong Kong. I have committed myself to computer science research and innovation. 
+He is currently a B.S. student in data science at [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn). I have committed myself to computer science research and innovation. 
 
-His research interest originated from multimedia applications, like 3D vision, virtual reality, multimedia system and multimodal.
+His research interests mainly focus on the following two aspects:
+- Vision: 3D vision, Virtual Reality, multimodal, video prediction.
+- System - Edge AI, network and multimedia system.
 
-He is currently a research assistant in INML supervised by [Prof.Fangxin Wang](https://scholar.google.com/citations?user=DrcEuSkAAAAJ&hl=zh-CN) focused on multimedia system and VR. Besides, He is also a research assistant in Harvard supervised by [Prof. Huazhe Xu](https://scholar.google.com/citations?user=VwYoZ6gAAAAJ&hl=zh-CN), and work with [Prof. Jiashun Wang](https://scholar.google.com/citations?user=VwYoZ6gAAAAJ&hl=zh-CN), focused on 3D motion generation and 3D reconstruction.
+He is lucky to be a research assistant in INML supervised by [Prof.Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/publications.html) focused on multimedia system and VR. Besides, He is also a research assistant in Harvard CAMLab supervised by [Prof. Huazhe Xu](http://hxu.rocks/), and work with [Jiashun Wang](https://jiashunwang.github.io/), focused on 3D motion generation and 3D reconstruction.
 
 I will apply for Ph.D. degree at the end of 2023.
 
