@@ -42,35 +42,19 @@ design:
 * *2020⁄01* : I serve as Teaching Assistant for course: CS390D Deep Learning (2020 Spring)
 * *2018⁄07* : I graduate from Xi’an Jiaotong University with the highest undergraduate honor (with GPA **3.93**/4.3).
 * *2018⁄06* : I join Sensetime Research as a research intern, supervised by [Jimmy S. Ren](http://www.jimmyren.com/).
-
-
-
-021⁄10 : First-authored paper ASSANet gets accepted to NeurIPS’21 as a spotlight paper. code NEW!.
-
-2021⁄03 : Co-first authored paper DeepGCNs gets accpected to journal TPAMI’21 .
-
-2021⁄03 : First authored paper PU-GCN gets accepted to CVPR’21
-
-2020⁄12 : I graduate as a Master in Computer Science!
-
-2020⁄03 : 1 Co-first authored paper SGAS (Sequential Greedy Architecture Search) gets accepted to CVPR’20.
-
-2020⁄01 : I serve as Teaching Assistant for course: CS390D Deep Learning (2020 Spring)
-
-2018⁄07 : I graduate from Xi’an Jiaotong University with the highest undergraduate honor (with GPA 3.93/4.3).
-
-2018⁄06 : I join Sensetime Research as a research intern, supervised by Jimmy S. Ren.021⁄10 : First-authored paper ASSANet gets accepted to NeurIPS’21 as a spotlight paper. code NEW!.
-
-2021⁄03 : Co-first authored paper DeepGCNs gets accpected to journal TPAMI’21 .
-
-2021⁄03 : First authored paper PU-GCN gets accepted to CVPR’21
-
-2020⁄12 : I graduate as a Master in Computer Science!
-
-2020⁄03 : 1 Co-first authored paper SGAS (Sequential Greedy Architecture Search) gets accepted to CVPR’20.
-
-2020⁄01 : I serve as Teaching Assistant for course: CS390D Deep Learning (2020 Spring)
-
-2018⁄07 : I graduate from Xi’an Jiaotong University with the highest undergraduate honor (with GPA 3.93/4.3).
-
-2018⁄06 : I join Sensetime Research as a research intern, supervised by Jimmy S. Ren.
+* *2021⁄10* : First-authored paper [ASSANet](https://arxiv.org/abs/2110.10538) gets accepted to **NeurIPS’21** as a **spotlight** paper. [code](https://github.com/guochengqian/ASSANet) **NEW!**.
+* *2021⁄03* : Co-first authored paper [DeepGCNs](https://arxiv.org/abs/1910.06849) gets accpected to journal **TPAMI’21** .
+* *2021⁄03* : First authored paper [PU-GCN](https://arxiv.org/abs/1912.03264) gets accepted to **CVPR’21**
+* *2020⁄12* : I graduate as a Master in Computer Science!
+* *2020⁄03* : 1 Co-first authored paper [SGAS](https://www.deepgcns.org/auto/sgas) (Sequential Greedy Architecture Search) gets accepted to **CVPR’20**.
+* *2020⁄01* : I serve as Teaching Assistant for course: CS390D Deep Learning (2020 Spring)
+* *2018⁄07* : I graduate from Xi’an Jiaotong University with the highest undergraduate honor (with GPA **3.93**/4.3).
+* *2018⁄06* : I join Sensetime Research as a research intern, supervised by [Jimmy S. Ren](http://www.jimmyren.com/).
+* *2021⁄10* : First-authored paper [ASSANet](https://arxiv.org/abs/2110.10538) gets accepted to **NeurIPS’21** as a **spotlight** paper. [code](https://github.com/guochengqian/ASSANet) **NEW!**.
+* *2021⁄03* : Co-first authored paper [DeepGCNs](https://arxiv.org/abs/1910.06849) gets accpected to journal **TPAMI’21** .
+* *2021⁄03* : First authored paper [PU-GCN](https://arxiv.org/abs/1912.03264) gets accepted to **CVPR’21**
+* *2020⁄12* : I graduate as a Master in Computer Science!
+* *2020⁄03* : 1 Co-first authored paper [SGAS](https://www.deepgcns.org/auto/sgas) (Sequential Greedy Architecture Search) gets accepted to **CVPR’20**.
+* *2020⁄01* : I serve as Teaching Assistant for course: CS390D Deep Learning (2020 Spring)
+* *2018⁄07* : I graduate from Xi’an Jiaotong University with the highest undergraduate honor (with GPA **3.93**/4.3).
+* *2018⁄06* : I join Sensetime Research as a research intern, supervised by [Jimmy S. Ren](http://www.jimmyren.com/).
