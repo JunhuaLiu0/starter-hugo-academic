@@ -38,12 +38,10 @@ abstract: "60° videos in recent years have experienced booming develop\x02ment.
   fail to characterize the intrinsic properties of a video scene"
 draft: true
 featured: true
-tags:
-  - ACM Multimedia 2022
-categories:
-  - ACM Multimedia 2022
+tags: []
+categories: []
 projects:
-  - ACM Multimedia 2022
+  - TMC1
 image:
   filename: featured
   focal_point: Smart
