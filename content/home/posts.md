@@ -25,36 +25,46 @@ design:
   background:
     image_darken: 0
 ---
-<!--StartFragment-->
-
-* 📌 *Publications so far*: 2 CVPR, 1 TPAMI, 1 NeurIPS, 1 ICCP, 1 CVPRW, 2 Arxiv
-* 📌 *2022/06/10*: First-authored paper [PointNeXt](https://arxiv.org/abs/2206.04670) is at arXiv. We find with advanced training and model scaling strategies, the classical PointNet++ can outperform SOTA in various tasks. Code relased at [PointNeXt](https://github.com/guochengqian/PointNeXt).
-* *2022⁄06*: First-authored paper [TENet](https://arxiv.org/abs/2206.04670) gets accepted to ICCP’22. [Code](https://github.com/guochengqian/TENet) is avaliable.
-* *2022⁄04*: First-authored Paper [TNAS](https://openaccess.thecvf.com/content/CVPR2022W/ECV/papers/Qian_When_NAS_Meets_Trees_An_Efficient_Algorithm_for_Neural_Architecture_CVPRW_2022_paper.pdf) gets accepted to CVPR’22 workshop. [Code](https://github.com/guochengqian/TNAS).
-
-<!--EndFragment-->
-
-* *2021⁄10* : First-authored paper [ASSANet](https://arxiv.org/abs/2110.10538) gets accepted to **NeurIPS’21** as a **spotlight** paper. [code](https://github.com/guochengqian/ASSANet) **NEW!**.
-* *2021⁄03* : Co-first authored paper [DeepGCNs](https://arxiv.org/abs/1910.06849) gets accpected to journal **TPAMI’21** .
-* *2021⁄03* : First authored paper [PU-GCN](https://arxiv.org/abs/1912.03264) gets accepted to **CVPR’21**
-* *2020⁄12* : I graduate as a Master in Computer Science!
-* *2020⁄03* : 1 Co-first authored paper [SGAS](https://www.deepgcns.org/auto/sgas) (Sequential Greedy Architecture Search) gets accepted to **CVPR’20**.
-* *2020⁄01* : I serve as Teaching Assistant for course: CS390D Deep Learning (2020 Spring)
-* *2018⁄07* : I graduate from Xi’an Jiaotong University with the highest undergraduate honor (with GPA **3.93**/4.3).
-* *2018⁄06* : I join Sensetime Research as a research intern, supervised by [Jimmy S. Ren](http://www.jimmyren.com/).
-* *2021⁄10* : First-authored paper [ASSANet](https://arxiv.org/abs/2110.10538) gets accepted to **NeurIPS’21** as a **spotlight** paper. [code](https://github.com/guochengqian/ASSANet) **NEW!**.
-* *2021⁄03* : Co-first authored paper [DeepGCNs](https://arxiv.org/abs/1910.06849) gets accpected to journal **TPAMI’21** .
-* *2021⁄03* : First authored paper [PU-GCN](https://arxiv.org/abs/1912.03264) gets accepted to **CVPR’21**
-* *2020⁄12* : I graduate as a Master in Computer Science!
-* *2020⁄03* : 1 Co-first authored paper [SGAS](https://www.deepgcns.org/auto/sgas) (Sequential Greedy Architecture Search) gets accepted to **CVPR’20**.
-* *2020⁄01* : I serve as Teaching Assistant for course: CS390D Deep Learning (2020 Spring)
-* *2018⁄07* : I graduate from Xi’an Jiaotong University with the highest undergraduate honor (with GPA **3.93**/4.3).
-* *2018⁄06* : I join Sensetime Research as a research intern, supervised by [Jimmy S. Ren](http://www.jimmyren.com/).
-* *2021⁄10* : First-authored paper [ASSANet](https://arxiv.org/abs/2110.10538) gets accepted to **NeurIPS’21** as a **spotlight** paper. [code](https://github.com/guochengqian/ASSANet) **NEW!**.
-* *2021⁄03* : Co-first authored paper [DeepGCNs](https://arxiv.org/abs/1910.06849) gets accpected to journal **TPAMI’21** .
-* *2021⁄03* : First authored paper [PU-GCN](https://arxiv.org/abs/1912.03264) gets accepted to **CVPR’21**
-* *2020⁄12* : I graduate as a Master in Computer Science!
-* *2020⁄03* : 1 Co-first authored paper [SGAS](https://www.deepgcns.org/auto/sgas) (Sequential Greedy Architecture Search) gets accepted to **CVPR’20**.
-* *2020⁄01* : I serve as Teaching Assistant for course: CS390D Deep Learning (2020 Spring)
-* *2018⁄07* : I graduate from Xi’an Jiaotong University with the highest undergraduate honor (with GPA **3.93**/4.3).
-* *2018⁄06* : I join Sensetime Research as a research intern, supervised by [Jimmy S. Ren](http://www.jimmyren.com/).
+<div style="overflow-y: auto; max-height:400px; ">
+		  <ul>
+			  <li>
+					[2022/07/04]  I attended the <a href="http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html">USTC Online Summer School</a> to start my <span style="font-weight: bold;">Computer Graphics</span> journey !
+			  </li>
+			  <li>
+					[2022/06/29]  I completed the <span style="font-weight: bold;">ML Fundamentals</span> section of the OxML School !
+			  </li>
+			  <li>
+			  		[2022/06/17]  I graduated from Lanzhou Jiaotong University(LZJTU)!
+			  </li>
+        <li>
+			  		[2022/06/01] I joined the <span style="font-style: italic;">Institute of Automation, Chinese Academy of Sciences</span> as a <span style="font-weight: bold;">Research Intern</span>, supervised by Prof. Chi Zhang and Dr.Wenbo Chen
+			  </li>
+			  <li>
+			  		[2021/06/13]  Won the <a href="https://tuanwei.lzjtu.edu.cn/info/1043/2997.htm">Innovative Person Title</a> <span style="font-weight: bold;">(TOP 1%)</span>
+			  </li>
+			  <li>
+			  		[2020/07/31]  A patent for invention is issued <span style="font-weight: bold;">(CN111476813A)</span>
+			  </li>
+			  <li>
+			  		[2020/05/01]  A Patent for Utility Model is granted <span style="font-weight: bold;">(CN212084334U)</span>
+			  </li>
+			  <li>
+			  		[2020/03/01]  One paper was accepted by <span style="font-weight: bold;">RICAI2020</span>
+			  </li>
+			  <li>
+			  		[2020/02/20]  One paper was accepted by the <a href="https://navi.cnki.net/knavi/journals/LZKQ/detail">Scientific & Technical Information of Gansu (Chinese Journal) </a>
+			  </li>
+			  <li>
+			  		[2020/02/01]  One paper was accepted by the <a href="https://navi.cnki.net/knavi/journals/DPJY/detail">Microcontrollers & Embedded Systems (Chinese Journal) </a>
+			  </li>
+        <li>
+			  		[2021/01/01] I joined Jiabao Trading Co., Ltd. as a <span style="font-weight: bold;">Python intern</span> 
+			  </li>
+			  <li>
+			  		[2020/02/01] I joined Hengsheng Electronic Technology Co., Ltd. as a <span style="font-weight: bold;">Java intern</span> 
+			  </li>
+			  <li>
+			  		[2019/01/01] I joined the Laboratory for <span style="font-style: italic;">Intelligent Computing and Big Data Lab(LZJTU)</span> as a <span style="font-weight: bold;">Research Assistant</span> , supervised by Prof. Jiuyuan Huo
+				</li>
+		  </ul>
+</div>
