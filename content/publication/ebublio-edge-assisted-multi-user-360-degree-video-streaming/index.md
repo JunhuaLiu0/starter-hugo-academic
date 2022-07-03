@@ -52,7 +52,7 @@ author_notes:
 doi: ""
 publication: IEEE Internet of Things Journal
 projects:
-  - Ebublio
+  - Ebublio2
 date: 2022-07-03T22:35:20.153Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
