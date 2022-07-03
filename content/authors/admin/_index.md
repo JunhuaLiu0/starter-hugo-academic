@@ -1,6 +1,6 @@
 ---
-title: 刘俊华
-role: Year-2 Student at CUHK(SZ)
+title: Junhua Liu 刘俊华
+role: Year-2 Student at School of Data Science
 bio: My research interests include 3D vision, virtual reality, multimedia system
   and multimodal.
 interests:
