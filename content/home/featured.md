@@ -33,5 +33,5 @@ design:
   #   3 = Card
 #   4 = Citation (publication only)
 
-  view: 3
+  view: 2
 ---
