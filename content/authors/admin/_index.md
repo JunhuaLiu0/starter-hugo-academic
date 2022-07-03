@@ -4,8 +4,8 @@ role: Year-2 Student at CUHK(SZ)
 bio: My research interests include 3D vision, virtual reality, multimedia system
   and multimodal.
 interests:
-  - 3D Vision and Virtual Reality
-  - Multimedia System
+  - 3D Vision and VR
+  - Video streaming and prediction
   - Multimodal
 social:
   - icon: envelope
@@ -34,8 +34,11 @@ education:
     - course: BSc in Data Science
       institution: The Chinese University of Hongkong, shenzhen
       year: 2020
-email: ""
+email: junhualiu@link.cuhk.edu.cn
 superuser: true
+user_groups:
+  - The Chinese University of Hong Kong
+  - Shenzhen
 highlight_name: true
 ---
 He is currently a B.S. student in data science at [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn). I have committed myself to computer science research and innovation. 
