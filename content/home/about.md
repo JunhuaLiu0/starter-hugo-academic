@@ -8,6 +8,6 @@ active: true
 author: admin
 design:
   background:
-    image: eb9cbb70584a69617f82898bce0ac68f.jpeg
+    image: ""
     image_darken: 0.1
 ---
