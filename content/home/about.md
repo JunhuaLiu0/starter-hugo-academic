@@ -3,7 +3,7 @@ widget: about
 widget_id: about
 headless: true
 weight: 10
-title: Junhua Liu
+title: ""
 active: true
 author: admin
 design:
