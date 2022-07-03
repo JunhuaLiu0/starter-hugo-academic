@@ -30,20 +30,19 @@ organizations:
     url: cuhk.edu.cn
 education:
   courses:
-    - course: Data Science
+    - course: BSc in Computer Science
+      year: 2020
       institution: The Chinese University of Hongkong,Shenzhen
-      year: 2024
 email: junhualiu@link.cuhk.edu.cn
 superuser: true
 user_groups: []
 highlight_name: true
 ---
-#### Year-2 Student | [Lab of Multimedia and Networking](<>) | [CUHK(SZ)](<>)
+### Undergraduate | [Multimedia and Networking Lab](<>) | [CUHK(SZ)](<>)
 
-#### Zhixin Building, Shenzhen, China | jeshualiu@gmail.com
-![fniilogo-2-.png](sum1.png)
+##### Zhixin Building, Shenzhen, China | jeshualiu@gmail.com
 
----
+![fniilogo-2-.png](sum2.png)
 
 He is currently a B.S. student in data science at [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn). I have committed myself to computer science research and innovation. 
 
@@ -53,4 +52,3 @@ His research interests mainly focus on the following two aspects:
 * System - Edge AI, network and multimedia system.
 
 He is lucky to be a research assistant in INML supervised by [Prof.Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/publications.html) focused on multimedia system and VR. Besides, He is also a research assistant in Harvard CAMLab supervised by [Prof. Huazhe Xu](http://hxu.rocks/), and work with [Jiashun Wang](https://jiashunwang.github.io/), focused on 3D motion generation and 3D reconstruction.
-
