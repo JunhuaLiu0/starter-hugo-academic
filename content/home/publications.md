@@ -23,9 +23,5 @@ design:
   view: citation
   columns: "1"
   background:
-    image: icon.png
+    image: ""
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
