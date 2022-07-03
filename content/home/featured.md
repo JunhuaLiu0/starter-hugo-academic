@@ -5,6 +5,7 @@ headless: true
 weight: 27
 title: Publications
 subtitle: ""
+active: true
 content:
   page_type: publication
   count: 0
@@ -16,4 +17,5 @@ content:
   order: desc
 design:
   view: 2
+  columns: "1"
 ---
