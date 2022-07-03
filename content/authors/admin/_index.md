@@ -38,7 +38,7 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-### Undergraduate | [Multimedia and Networking Lab](<>) | [CUHK(SZ)](<>)
+### Undergraduate | [Multimedia and Networking Lab](<>) |
 
 ##### Zhixin Building, Shenzhen, China | jeshualiu@gmail.com
 
