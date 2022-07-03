@@ -70,7 +70,7 @@ experience:
     company_logo: 
     location: Shenzhen
     date_start: '2021-12-01'
-    date_end: '2022-3-31'
+    date_end: '2022-03-31'
     description: |2-
         At NLP group,
         Focus on Natural Language Processing and Dialogue System
