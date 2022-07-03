@@ -23,16 +23,12 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-organizations:
-  - name: The Chinese University of Hongkong, shenzhen
-    url: https://www.cuhk.edu.cn/
+organizations: []
 education:
   courses: []
 email: junhualiu@link.cuhk.edu.cn
 superuser: true
-user_groups:
-  - The Chinese University of Hong Kong
-  - Shenzhen
+user_groups: []
 highlight_name: true
 ---
 #### Year-2 Student | [Lab of Multimedia and Networking](<>) | [CUHK(SZ)](<>)
