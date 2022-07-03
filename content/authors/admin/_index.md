@@ -44,7 +44,6 @@ His research interests mainly focus on the following two aspects:
 
 He is lucky to be a research assistant in INML supervised by [Prof.Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/publications.html) focused on multimedia system and VR. Besides, He is also a research assistant in Harvard CAMLab supervised by [Prof. Huazhe Xu](http://hxu.rocks/), and work with [Jiashun Wang](https://jiashunwang.github.io/), focused on 3D motion generation and 3D reconstruction.
 
-<figure class="half">
-    <img src=airs-2-.png>
-    <img src=fniilogo-2-.png>
-</figure>
+label 1 | label 2
+--- | ---
+![](airs-2-.png) | ![](fniilogo-2-.png)
