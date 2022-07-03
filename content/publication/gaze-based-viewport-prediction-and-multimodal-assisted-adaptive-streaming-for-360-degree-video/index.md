@@ -36,7 +36,7 @@ abstract: "60° videos in recent years have experienced booming develop\x02ment.
   clas\x02sification from video genres, which lack quantitative analysis and
 
   fail to characterize the intrinsic properties of a video scene"
-draft: true
+draft: false
 featured: true
 tags: []
 categories: []
