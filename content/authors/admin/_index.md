@@ -41,11 +41,9 @@ user_groups:
   - Shenzhen
 highlight_name: true
 ---
-## Year-2 Student | [Lab of Multimedia and Networking](<>) | [CUHK(SZ)](<>)
-## Room 231, Zhixin Building, Shenzhen, China | jeshualiu@gmail.com
-
+#### Year-2 Student | [Lab of Multimedia and Networking](<>) | [CUHK(SZ)](<>)
+#### Zhixin Building, Shenzhen, China | jeshualiu@gmail.com
 - - -
-
 He is currently a B.S. student in data science at [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn). I have committed myself to computer science research and innovation. 
 
 His research interests mainly focus on the following two aspects:
