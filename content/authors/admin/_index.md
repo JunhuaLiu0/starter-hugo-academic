@@ -1,7 +1,6 @@
 ---
-title: Junhua Liu 刘俊华
-role: Year-2 Student, Lab of Multimedia and Networking, School of Data Science,
-  Zhixin Building
+title: 刘俊华
+role: Year-2 Student of Computer Science
 bio: My research interests include 3D vision, virtual reality, multimedia system
   and multimodal.
 interests:
@@ -42,11 +41,17 @@ user_groups:
   - Shenzhen
 highlight_name: true
 ---
+## Year-2 Student | [Lab of Multimedia and Networking](<>) | [CUHK(SZ)](<>)
+## Room 231, Zhixin Building, Shenzhen, China | jeshualiu@gmail.com
+
+- - -
+
 He is currently a B.S. student in data science at [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn). I have committed myself to computer science research and innovation. 
 
 His research interests mainly focus on the following two aspects:
-- Vision: 3D vision, Virtual Reality, multimodal, video prediction.
-- System - Edge AI, network and multimedia system.
+
+* Vision: 3D vision, Virtual Reality, multimodal, video prediction.
+* System - Edge AI, network and multimedia system.
 
 He is lucky to be a research assistant in INML supervised by [Prof.Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/publications.html) focused on multimedia system and VR. Besides, He is also a research assistant in Harvard CAMLab supervised by [Prof. Huazhe Xu](http://hxu.rocks/), and work with [Jiashun Wang](https://jiashunwang.github.io/), focused on 3D motion generation and 3D reconstruction.
 
