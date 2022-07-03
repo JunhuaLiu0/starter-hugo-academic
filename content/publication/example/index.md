@@ -1,4 +1,12 @@
 ---
+title: "Ebublio: Edge Assisted Multi-user 360-Degree Video Streaming"
+publication_types:
+  - "1"
+authors:
+  - Yili Jin
+  - Junhua Liu
+  - Fangxin Wang
+publication_short: ""
 abstract: "360° panoramic videos in recent years have experienced booming
 
   development due to the immersive and interactive experience. Com\x02pared to
@@ -20,37 +28,29 @@ abstract: "360° panoramic videos in recent years have experienced booming
   overall user QoE with fairness and long-term system cost remains a
 
   non-trivial problem.\n"
-slides: example
-url_pdf: ""
-publication_types:
-  - "1"
-authors:
-  - Yili Jin
-  - Junhua Liu
-  - Fangxin Wang
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: IEEE VR 2022
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
-url_dataset: ""
-url_project: ""
-publication_short: ""
-url_source: ""
-url_video: ""
-title: "Ebublio: Edge Assisted Multi-user 360-Degree Video Streaming"
-doi: ""
+draft: false
 featured: true
 tags: []
-projects:
-  - example
+slides: Ebublio
+url_pdf: ""
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: true
   filename: caigou.png
+summary: "[IEEE VR 2022] 2022 IEEE Conference on Virtual Reality and 3D User
+  Interfaces (CCF-A)"
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes:
+  - Equal contribution
+  - Equal contribution
+doi: ""
+publication: IEEE VR 2022
+projects:
+  - Ebublio
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
