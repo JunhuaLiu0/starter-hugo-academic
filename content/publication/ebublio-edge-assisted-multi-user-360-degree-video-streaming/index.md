@@ -28,7 +28,7 @@ abstract: "360° panoramic videos in recent years have experienced booming
   overall user QoE with fairness and long-term system cost remains a
 
   non-trivial problem.\n"
-draft: true
+draft: false
 featured: true
 tags: []
 slides: ""
@@ -39,7 +39,7 @@ image:
   preview_only: true
   filename: caigou.png
 summary: >-
-  <b style="font-size:120%;color:#008080">[IoTJ] </b> 
+  <b style="font-size:120%;color:#008080">[Under Review] </b> 
 
   <b style="color:#3F51B5"> IEEE Internet of Things Journal</b><b style="color:red"> (Q1)</b> 
 url_dataset: ""
