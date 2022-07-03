@@ -39,9 +39,7 @@ image:
   preview_only: true
   filename: caigou.png
 summary: >-
-  </br> 
-
-  <b style="font-size:120%;color:#008080">[IEEE VR 2022] </b> 
+  </br><b style="font-size:120%;color:#008080">[IEEE VR 2022] </b> 
 
   <b style="color:#3F51B5"> 2022 IEEE Conference on Virtual Reality and 3D User Interfaces</b><b style="color:red"> (CCF-A)</b> 
 url_dataset: ""
