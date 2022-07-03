@@ -1,12 +1,11 @@
 ---
 title: Buffer-awared Volumetric Video Streaming and Compression
 publication_types:
-  - "0"
   - "1"
 authors:
   - Junhua Liu
-draft: false
-featured: false
+draft: true
+featured: true
 image:
   filename: featured
   focal_point: Smart
