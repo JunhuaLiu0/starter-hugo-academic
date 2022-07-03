@@ -1,5 +1,5 @@
 ---
-title: 刘俊华
+title: Junhua Liu 刘俊华
 role: Student of Computer Science
 bio: My research interests include 3D vision, virtual reality, multimedia system
   and multimodal.
