@@ -32,9 +32,12 @@ highlight_name: true
 ---
 ### Undergraduate | [Multimedia and Networking Lab <br /> Zhixin Building, Shenzhen, China | jeshualiu@gmail.com
 
+- - -
+
+# About me
+
 ![fniilogo-2-.png](sum2.png)
 
----
 He is currently a B.S. student in data science at [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn). I have committed myself to computer science research and innovation. 
 
 His research interests mainly focus on the following two aspects:
