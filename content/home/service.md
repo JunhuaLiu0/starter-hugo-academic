@@ -1,8 +1,8 @@
 ---
-widget: Service
+widget: blank
 widget_id: service
 headless: true
-weight: 10
+weight: 800
 title: Academic Service
 active: true
 design:
