@@ -1,6 +1,7 @@
 ---
 title: Junhua Liu 刘俊华
-role: Year-2 Student at School of Data Science
+role: Year-2 Student, Lab of Multimedia and Networking, School of Data Science,
+  Zhixin Building
 bio: My research interests include 3D vision, virtual reality, multimedia system
   and multimodal.
 interests:
