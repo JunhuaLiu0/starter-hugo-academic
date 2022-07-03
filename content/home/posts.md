@@ -2,7 +2,7 @@
 widget: blank
 widget_id: RECENT-POSTS
 headless: true
-weight: 25
+weight: 15
 title: News
 subtitle: null
 content:
