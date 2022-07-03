@@ -38,8 +38,13 @@ image:
   focal_point: ""
   preview_only: true
   filename: caigou.png
-summary: "[IEEE VR 2022] 2022 IEEE Conference on Virtual Reality and 3D User
-  Interfaces (CCF-A)"
+summary: >-
+  <b style="color:#E08040">Junming Wang,</b> Jiuyuan Huo*, Lin Mu, Hamzah Murad
+  Mohammed Al-Neshmi, Tao Ju </br> 
+
+  <b style="font-size:120%;color:#008080">[IEEE VR 2022] </b> 
+
+  <b style="color:#3F51B5"> 2022 IEEE Conference on Virtual Reality and 3D User Interfaces</b><b style="color:red"> (CCF-A)</b> 
 url_dataset: ""
 url_project: ""
 url_source: ""
