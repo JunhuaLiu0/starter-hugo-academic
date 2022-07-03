@@ -39,8 +39,7 @@ image:
   preview_only: true
   filename: caigou.png
 summary: >-
-  <b style="color:#E08040">Junming Wang,</b> Jiuyuan Huo*, Lin Mu, Hamzah Murad
-  Mohammed Al-Neshmi, Tao Ju </br> 
+  </br> 
 
   <b style="font-size:120%;color:#008080">[IEEE VR 2022] </b> 
 
