@@ -6,7 +6,6 @@ bio: My research interests include 3D vision, virtual reality, multimedia system
 interests:
   - 3D vision and VR
   - Video Streaming and Prediction
-  - Network
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,7 +29,10 @@ organizations:
   - name: The Chinese University of Hong Kong,Shenzhen
     url: cuhk.edu.cn
 education:
-  courses: []
+  courses:
+    - course: Data Science
+      institution: The Chinese University of Hongkong,Shenzhen
+      year: 2024
 email: junhualiu@link.cuhk.edu.cn
 superuser: true
 user_groups: []
