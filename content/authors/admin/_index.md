@@ -1,9 +1,12 @@
 ---
 title: 刘俊华
-role: Year-2 Student of Computer Science
+role: Student of Computer Science
 bio: My research interests include 3D vision, virtual reality, multimedia system
   and multimodal.
-interests: []
+interests:
+  - 3D vision and VR
+  - Video Streaming and Prediction
+  - Network
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,7 +26,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-organizations: []
+organizations:
+  - name: The Chinese University of Hong Kong,Shenzhen
+    url: cuhk.edu.cn
 education:
   courses: []
 email: junhualiu@link.cuhk.edu.cn
