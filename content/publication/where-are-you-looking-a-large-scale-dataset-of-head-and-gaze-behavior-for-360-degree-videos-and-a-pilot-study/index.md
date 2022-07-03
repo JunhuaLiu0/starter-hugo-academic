@@ -12,6 +12,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: ACM Multimedia 2022
+publication_short: ACM Multimedia 2022
 abstract: "60° videos in recent years have experienced booming develop\x02ment.
   Compared to traditional videos, 360° videos are featured
 
@@ -37,9 +38,18 @@ abstract: "60° videos in recent years have experienced booming develop\x02ment.
   fail to characterize the intrinsic properties of a video scene"
 draft: false
 featured: true
+tags:
+  - ACM Multimedia 2022
+categories:
+  - ACM Multimedia 2022
+projects:
+  - ACM Multimedia 2022
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  caption: ACM Multimedia 2022
+  alt_text: ACM Multimedia 2022
+summary: ACM Multimedia 2022
 date: 2022-07-03T21:21:01.930Z
 ---
