@@ -1,6 +1,6 @@
 ---
 title: Junhua Liu 刘俊华
-role: Student of Computer Science
+role: Undergraduate
 bio: My research interests include 3D vision, virtual reality, multimedia system
   and multimodal.
 social:
@@ -30,7 +30,7 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-### Undergraduate | Multimedia and Networking Lab <br /> Zhixin Building, Shenzhen, China | jeshualiu@gmail.com
+### CUHK(SZ) | Multimedia and Networking Lab | SDS <br /> Zhixin Building, Shenzhen, China | jeshualiu@gmail.com
 - - -
 ## About me
 
