@@ -28,7 +28,7 @@ experience:
     company_logo: 
     location: Shenzhen
     date_start: '2022-08-01'
-    date_end: 'Present'
+    date_end: '2022-08-01'
     description: |2-
         At ISP & VIdeo CODEC group
         Focus on AI Video CODEC/ Volumetric Video/Point Cloud
@@ -39,7 +39,7 @@ experience:
     company_logo: 
     location: Shenzhen
     date_start: '2022-03-01'
-    date_end: 'Present'
+    date_end: '2022-08-01'
     description: |2- 
         At Harvard CAMLab,
         Focus on 3D human motion generation, computer graphics and 3D 				reconstruction
@@ -50,7 +50,7 @@ experience:
     company_logo: 
     location: Shenzhen
     date_start: '2021-10-01'
-    date_end: 'Present'
+    date_end: '2022-08-01'
     description: |2-
         At the Future Network of Intelligence Institute,
         Focus on Network and Multimedia System, Virtual Reality, Multimodal
@@ -61,7 +61,7 @@ experience:
     company_logo: 
     location: Shenzhen
     date_start: '2022-08-01'
-    date_end: 'Present'
+    date_end: '2022-08-01'
     description: Reinforcement Learning, Robotics and Computer Vision
 
   - title: Research Assistant
