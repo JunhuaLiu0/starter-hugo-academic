@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Junhua Liu
-draft: true
+draft: false
 featured: true
 image:
   filename: featured
