@@ -30,9 +30,9 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-### Undergraduate | [Multimedia and Networking Lab <br /> Zhixin Building, Shenzhen, China | jeshualiu@gmail.com
+### Undergraduate | Multimedia and Networking Lab <br /> Zhixin Building, Shenzhen, China | jeshualiu@gmail.com
 - - -
-# About me
+## About me
 
 ![fniilogo-2-.png](sum2.png)
 
