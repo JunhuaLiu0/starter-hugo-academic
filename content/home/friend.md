@@ -13,5 +13,9 @@ design:
 ---
 CUHKSZ: [Haoming Cai](https://haomingcai.github.io/)\
 FDU: Dengyu Yang, Yikun Wang, Guanyu\
-HUST: [Wenjie Qu](http://quwenjie.github.io/)
+SJTU: [Yanjie ze](https://yanjieze.com/)\
+HUST: [Wenjie Qu](http://quwenjie.github.io/)\
+USC: [Chang Di](https://boese0601.github.io/) \
+Polyu: [Zhe Wang](https://zhe-wang0018.github.io/)
+
  
