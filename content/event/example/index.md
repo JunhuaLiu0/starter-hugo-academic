@@ -7,7 +7,7 @@ slides: example
 url_pdf: ""
 summary: Invited to give a tutorial on the applications of Latex for SDS.
 title: Latex Workshop
-location: Wowchemy HQ
+location: Tencent Meeting
 date: 2020-04-17T13:15:00.000Z
 date_end: 2020-04-18T15:00:00.000Z
 all_day: false
