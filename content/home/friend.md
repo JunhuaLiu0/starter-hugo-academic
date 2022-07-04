@@ -11,7 +11,7 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-CUHKSZ:\
-FDU: Dengyu Yang, Yikun Wang, Guanyu Li \
-
-Predecessor: [Haoming Cai](https://haomingcai.github.io/), 
+CUHKSZ: [Haoming Cai](https://haomingcai.github.io/)\
+FDU: Dengyu Yang, Yikun Wang, Guanyu\
+HUST: [Wenjie Qu](http://quwenjie.github.io/)
+ 
