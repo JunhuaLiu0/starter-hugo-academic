@@ -11,13 +11,5 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-CUHKSZ: [Haoming Cai](https://haomingcai.github.io/), [Tianci Hou](https://haomingcai.github.io/)\
-FDU: Dengyu Yang, Yikun Wang, Guanyu\
-SJTU: [Yanjie Ze](https://yanjieze.com/)\
-HUST: [Wenjie Qu](http://quwenjie.github.io/)\
-SDU: [Qitao Zhao](https://qitaozhao.github.io) \
-SCU: [Shiyi Du](https://zoedsy.github.io/) \
-USC: [Chang Di](https://boese0601.github.io/) \
-Polyu: [Zhe Wang](https://zhe-wang0018.github.io/)
-
- 
+CUHKSZ: [Haoming Cai](https://haomingcai.github.io/), [Tianci Hou](https://haomingcai.github.io/) FDU: Dengyu Yang, Yikun Wang, Guanyu SJTU: [Yanjie Ze](https://yanjieze.com/) \
+HUST: [Wenjie Qu](http://quwenjie.github.io/) SDU: [Qitao Zhao](https://qitaozhao.github.io)  SCU: [Shiyi Du](https://zoedsy.github.io/)  USC: [Chang Di](https://boese0601.github.io/)   Polyu: [Zhe Wang](https://zhe-wang0018.github.io/)
