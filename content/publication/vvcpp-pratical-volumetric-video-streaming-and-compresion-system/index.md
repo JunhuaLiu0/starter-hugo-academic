@@ -1,5 +1,5 @@
 ---
-title: "VVcpp: Pratical Volumetric Video Streaming and Compresion System"
+title: "VVcpp: Pratical Volumetric Video Viewport Prediction and Compresion System"
 publication_types:
   - "1"
 authors:
