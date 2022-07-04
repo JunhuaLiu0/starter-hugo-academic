@@ -60,6 +60,6 @@ subtitle: null
 design:
   columns: "2"
 ---
-1
 
-![1](sum2.png "1")
+
+![](sum2.png)
