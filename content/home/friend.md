@@ -12,6 +12,6 @@ design:
     image_darken: 0
 ---
 CUHKSZ:\
-THU:\
-FDU:\
-Umich:\
+FDU: Dengyu Yang, Yikun Wang, Guanyu Li \
+
+Predecessor: [Haoming Cai](https://haomingcai.github.io/), 
