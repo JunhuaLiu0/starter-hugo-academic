@@ -1,5 +1,5 @@
 ---
-title: "VVcpp: Pratical Volumetric Video Viewport Prediction and Compresion System"
+title: "V3P2: Pratical Volumetric Video Viewport Prediction and Compresion System"
 publication_types:
   - "1"
 authors:
