@@ -13,6 +13,6 @@ image:
 summary: >-
   <b style="font-size:120%;color:#008080">[Manuscript] </b> 
 
-  <b style="color:#3F51B5"> 2023 SENIX Symposium on Networked Systems Design and Implementation</b><b style="color:red"> (CCF-A)</b>
+  <b style="color:#3F51B5">Prepare for 2023 SENIX Symposium on Networked Systems Design and Implementation</b><b style="color:red"> (CCF-A)</b>
 date: 2022-07-03T23:58:39.660Z
 ---
