@@ -8,9 +8,7 @@ authors:
   - Junhua Liu
   - Fangxin Wang
   - Shuguang Cui
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 publication: ACM Multimedia 2022
 publication_short: ACM Multimedia 2022
 abstract: "60° videos in recent years have experienced booming develop\x02ment.
