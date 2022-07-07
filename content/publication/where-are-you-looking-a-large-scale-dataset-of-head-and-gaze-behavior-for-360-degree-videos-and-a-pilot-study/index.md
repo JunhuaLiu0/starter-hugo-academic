@@ -45,7 +45,7 @@ categories:
 projects:
   - ACM Multimedia 2022
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
   caption: ACM Multimedia 2022
