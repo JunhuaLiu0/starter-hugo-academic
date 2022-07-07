@@ -37,7 +37,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: true
-  filename: caigou.png
+  filename: featured.png
 summary: >-
   <b style="font-size:120%;color:#008080">[IEEE VR 2022] </b> 
 
