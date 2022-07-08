@@ -13,13 +13,10 @@ design:
 ---
 ## Reviewer/Assistant Reviewer: 
 To be continue
-
 ## Teaching:
 Teaching Fellow: DDA2020, STA2002 -2021 Fall
-
-##Voluntary service:
+## Voluntary service:
 Official volunteer in Shenzhen city. Volunteer teaching in Zunyi, Guizhou 2020
 Group Second Prize and Individual Second Prize in “Warm Homecoming Event” 2022 and 2021, both are only reward in Guizhou Province.
-
-#School service:
+## School service:
 Minister of ACG Club; Co-founder of School of Data Science Student Club.
