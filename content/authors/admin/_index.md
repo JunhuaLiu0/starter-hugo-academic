@@ -37,9 +37,9 @@ highlight_name: true
 
 ## About me
 
-He is currently a second-year B.S. student in computer science at [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn). He is lucky to be a research assistant in [Future Network of Intelligence Institute](https://fnii.cuhk.edu.cn/) supervised by [Prof. Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/publications.html). Besides, He also works with [Prof. Huazhe Xu](http://hxu.rocks/), [Prof. Zeyu Wang](https://zachzeyuwang.github.io/), [Prof. Yan Wang](https://air.tsinghua.edu.cn/en/info/1046/1379.html), [Jiashun Wang](https://jiashunwang.github.io/), [Chengan He](http://cs.yale.edu/homes/che/) in Harvard CAMLab, Tsinghua IIIS, and SenseTime.\
+He is currently a second-year B.S. student in computer science at [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn). He is lucky to be a research assistant in [Future Network of Intelligence Institute](https://fnii.cuhk.edu.cn/) supervised by [Prof. Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/publications.html). Besides, He also works with [Prof. Huazhe Xu](http://hxu.rocks/), [Prof. Zeyu Wang](https://zachzeyuwang.github.io/), [Prof. Yan Wang](https://air.tsinghua.edu.cn/en/info/1046/1379.html), Yili Jin, [Jiashun Wang](https://jiashunwang.github.io/), [Chengan He](http://cs.yale.edu/homes/che/) in Harvard CAMLab, Tsinghua IIIS, and SenseTime.\
 His research interest lies at the **intersection of Multimedia system, vision, and robot learning**, seeking potential applications in **Metaverse**, **Automatic drive,** and **Embodied AI**. For example, the following two aspects: 
 * System: Video streaming, CODEC, and analysis, Edge AI.
 * Vision: 3D vision, VR, multimodal, video prediction.
 
-I am actively seeking the opportunity of **Summer Research** in **2023 Fall.**
+I am actively seeking the opportunity of **Summer Research** in **2023.**
