@@ -26,3 +26,4 @@ subtitle: null
 design:
   columns: "2"
 ---
+Reduced tuition admission scholarship | Bowen Scholarship II(0.25%) | Undergraduate Research Award(9%)
