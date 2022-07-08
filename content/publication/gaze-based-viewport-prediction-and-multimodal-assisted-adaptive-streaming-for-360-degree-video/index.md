@@ -1,11 +1,13 @@
 ---
-title: " Gaze-based Viewport Prediction and Multimodal Assisted Adaptive
-  Streaming for 360-Degree Video"
+title: "Exploring Gaze Behavior in 360-Degree Videos: a Dataset and an FoV
+  Prediction Approach"
 publication_types:
-  - "1"
+  - "2"
 authors:
   - Yili Jin
   - Junhua Liu
+  - Wenyi Zhang
+  - Zihan Xu
   - Fangxin Wang
   - Shuguang Cui
 author_notes: []
