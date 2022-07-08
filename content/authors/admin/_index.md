@@ -41,4 +41,4 @@ His research interest lies at the **intersection of Multimedia system, vision, a
 * System: Video streaming, CODEC, and analysis, Edge AI.
 * Vision: 3D vision, VR, multimodal, video prediction.
 
-I am actively seeking the opportunity of **Summer Research** in **2023 Fall.** Feel free to contact me.
+I am actively seeking the opportunity of **Summer Research** in **2023 Fall.**
