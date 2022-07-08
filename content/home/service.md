@@ -3,7 +3,7 @@ widget: blank
 widget_id: service
 headless: true
 weight: 800
-title: Academic Service
+title: Service
 active: true
 design:
   columns: "2"
