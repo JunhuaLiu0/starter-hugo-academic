@@ -36,13 +36,12 @@ highlight_name: true
 
 ## About me
 
-He is currently a second-year B.S. student in computer science at [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn). I have committed myself to computer science research and innovation. 
+He is currently a second-year B.S. student in computer science at [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn). He is lucky to be a research assistant in [FNii](https://fnii.cuhk.edu.cn/) supervised by [Prof. Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/publications.html). Besides, He also works with [Prof. Huazhe Xu](http://hxu.rocks/), [Prof. Zeyu Wang](https://zachzeyuwang.github.io/), [Prof. Yan Wang](https://air.tsinghua.edu.cn/en/info/1046/1379.html), [Jiashun Wang](https://jiashunwang.github.io/), [Chengan He](http://cs.yale.edu/homes/che/) in Harvard CAMLab, Tsinghua IIIS, and SenseTime.
 
-His research interests mainly focus on the following two aspects:
+His research interest lies at the **intersection of Multimedia system, vision, and robot learning**, seeking potential applications in **Metaverse**, **Automatic drive,** and **Embodied AI**. 
+For example, the following two aspects:
 
-* Vision: 3D vision, Virtual Reality, multimodal, video prediction.
-* System - Video streaming, video ananlysis, Edge AI, network and multimedia system.
+* System: Video streaming, CODEC, and analysis, Edge AI.
+* Vision: 3D vision, VR, multimodal, video prediction.
 
-He is lucky to be a research assistant in [FNii](https://fnii.cuhk.edu.cn/) supervised by [Prof. Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/publications.html). Besides, He also works with [Prof. Huazhe Xu](http://hxu.rocks/), [Prof. Zeyu Wang](https://zachzeyuwang.github.io/), [Prof. Yan Wang](https://air.tsinghua.edu.cn/en/info/1046/1379.html), [Jiashun Wang](https://jiashunwang.github.io/), [Chengan He](http://cs.yale.edu/homes/che/) in Harvard CAMLab, Tsinghua IIIS, and SenseTime.
-
-I am actively seeking for opportunity of **Summer Research** in **2023 Fall**, feel free to contact me.
+I am actively seeking the opportunity of **Summer Research** in **2023 Fall.** Feel free to contact me.
