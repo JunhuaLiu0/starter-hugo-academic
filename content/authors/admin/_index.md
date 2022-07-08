@@ -1,6 +1,7 @@
 ---
 title: Junhua Liu 刘俊华
 role: Undergraduate
+avatar_filename: avatar.jpg
 bio: My research interests include 3D vision, virtual reality, multimedia system
   and multimodal.
 social:
