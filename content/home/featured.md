@@ -19,4 +19,4 @@ design:
   view: 2
   columns: "1"
 ---
-Some publications may be hidden because of double-blind review process.
+The title of some publications may be hidden because of the **double-blind review process.**
