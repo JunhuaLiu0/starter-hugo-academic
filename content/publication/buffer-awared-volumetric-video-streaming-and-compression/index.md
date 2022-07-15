@@ -8,7 +8,7 @@ authors:
 draft: false
 featured: true
 image:
-  filename: fig1.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 summary: >-
