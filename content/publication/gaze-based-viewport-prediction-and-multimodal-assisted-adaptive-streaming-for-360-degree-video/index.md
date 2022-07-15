@@ -43,7 +43,7 @@ categories: []
 projects:
   - TMC1
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
   caption: ACM Multimedia 2022
