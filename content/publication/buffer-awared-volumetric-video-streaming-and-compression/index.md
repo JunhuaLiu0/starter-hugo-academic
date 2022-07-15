@@ -1,5 +1,6 @@
 ---
-title: Buffer-awared Volumetric Video Streaming and Compression
+title: "Effcient Volumetric Video Streaming: A Budgeted Multi-Armed and
+  Prediction-inspired Approach"
 publication_types:
   - "1"
 authors:
