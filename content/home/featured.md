@@ -19,3 +19,4 @@ design:
   view: 2
   columns: "1"
 ---
+Some publications may be hidden because of double-blind review process.
