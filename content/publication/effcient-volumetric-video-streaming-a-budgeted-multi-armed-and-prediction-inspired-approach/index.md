@@ -1,6 +1,5 @@
 ---
-title: "Effcient Volumetric Video Streaming: A Budgeted Multi-Armed and
-  Prediction-inspired Approach"
+title: Cache-aware Volumetric Video Streaming
 publication_types:
   - "1"
 authors:
