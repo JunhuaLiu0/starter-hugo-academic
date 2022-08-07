@@ -3,9 +3,7 @@ title: "********** for Stock-Trading Data Augmentation"
 publication_types:
   - "1"
 authors:
-  - Yili Jin
-  - Junhua Liu
-  - Fangxin Wang
+  - Second Author
 publication_short: ""
 abstract: "\n"
 draft: false
