@@ -37,7 +37,7 @@ highlight_name: true
 
 ## About me
 
-He is currently a second-year B.S. student in computer science at [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn). He is lucky to be a research assistant in [Future Network of Intelligence Institute](https://fnii.cuhk.edu.cn/) supervised by [Prof. Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/publications.html). Besides, He is also lucky to work with [Prof. Huazhe Xu](http://hxu.rocks/), [Prof. Yan Wang](https://air.tsinghua.edu.cn/en/info/1046/1379.html), Yili Jin, [Jiashun Wang](https://jiashunwang.github.io/), [Chengan He](http://cs.yale.edu/homes/che/).\
+He is a second-year B.S. student in computer science at [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn). Currently, he is lucky to be a research assistant in [Future Network of Intelligence Institute](https://fnii.cuhk.edu.cn/) supervised by [Prof. Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/publications.html) and doing research intern in SenseTime. Besides, He is also lucky to work with [Prof. Huazhe Xu](http://hxu.rocks/), [Prof. Yan Wang](https://air.tsinghua.edu.cn/en/info/1046/1379.html), Yili Jin, [Jiashun Wang](https://jiashunwang.github.io/), [Chengan He](http://cs.yale.edu/homes/che/).\
 His research interest lies at **the intersection of Multimedia system, vision, and robot learning**, seeking potential applications like **Metaverse and** **Automatic driv**. For example, the following two aspects: 
 
 * System: Video streaming, AI CODEC, and analysis, Edge computing, Efficient ML.
