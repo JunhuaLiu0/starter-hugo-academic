@@ -41,6 +41,6 @@ He is a second-year B.S. student in computer science at [the Chinese University 
 His research interest lies at **the intersection of Multimedia system, vision, and robot learning**, seeking potential applications like **Metaverse and** **Automatic driv**. For example, the following two aspects: 
 
 * System: Video streaming, AI CODEC, and analysis, Edge computing, Efficient ML.
-* Vision: 3D vision/NeRF, VR, multimodal, Point Cloud.
+* Vision: 3D vision/NeRF, VR, multimodal, Point Cloud and implicit neural representations.
 
-I am actively seeking the opportunity of **Summer Research** in **2023.**
+I am actively seeking the opportunity of **Summer Research Opportunity** in **2023.**
