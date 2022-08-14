@@ -20,7 +20,7 @@ item:
     url: ""
 widget_id: "123"
 headless: true
-weight: 1001
+weight: 800
 title: Accomplish&Awards
 subtitle: null
 design:
