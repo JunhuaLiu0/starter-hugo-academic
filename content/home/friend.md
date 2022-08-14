@@ -2,7 +2,7 @@
 widget: blank
 widget_id: friend
 headless: true
-weight: 1000
+weight: 50
 title: Some of my friends
 active: true
 design:
