@@ -1,5 +1,5 @@
 ---
-title: "*******Training for RL-based Automatic Stock-trading Agent"
+title: "*******Training *************** Automatic Stock-trading Agent"
 publication_types:
   - "1"
 authors:
