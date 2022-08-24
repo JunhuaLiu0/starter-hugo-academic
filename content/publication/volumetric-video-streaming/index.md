@@ -1,5 +1,5 @@
 ---
-title: "**** Volumetric Video Streaming"
+title: "******** Streaming"
 publication_types:
   - "1"
 authors:
