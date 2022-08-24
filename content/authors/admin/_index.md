@@ -40,7 +40,7 @@ highlight_name: true
 He is a second-year B.S. student in computer science at [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn). Currently, he is lucky to be a research assistant in [Future Network of Intelligence Institute](https://fnii.cuhk.edu.cn/) supervised by [Prof. Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/publications.html) and doing research intern in SenseTime. Besides, He is also lucky to work with [Prof. Huazhe Xu](http://hxu.rocks/), [Prof. Yan Wang](https://air.tsinghua.edu.cn/en/info/1046/1379.html), Yili Jin, [Jiashun Wang](https://jiashunwang.github.io/), [Chengan He](http://cs.yale.edu/homes/che/).\
 His research interest lies at **the intersection of Multimedia system, omnidirectional vision, and robot learning**, seeking potential applications like **Metaverse and** **Autonomous driving**. For example, the following two aspects: 
 
-* System: Video streaming and analysis, Edge and Mobile computing, and Efficient ML.
-* MM: VR, Multimodal, CV3D, Human-Machine Interaction, and Scene Understanding.
+* System:  Edge Video streaming/analysis, Mobile computing, and Efficient ML.
+* MM: CODEC, Multimodal, CV3D, Human-Machine Interaction, and Scene Understanding.
 
 I am actively seeking the opportunity of **Summer Research Opportunity** in **2023.**
