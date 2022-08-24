@@ -1,5 +1,5 @@
 ---
-title: Cache-aware ******* Streaming
+title: Cache-aware ***************
 publication_types:
   - "1"
 authors:
